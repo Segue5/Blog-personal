@@ -164,3 +164,12 @@ aside .text-container h3{
 .proyects h2{
     text-align: center;
 }
+
+.proyects{
+    padding: 20px;
+}
+
+.proyects a{
+    color: #347;
+    text-decoration: none;
+}
